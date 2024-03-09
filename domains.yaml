@@ -1,0 +1,25 @@
+client:
+  - name: bing.com
+    url: https://bing.com
+
+project:
+  - name: example.com
+    url: https://example.com
+  - name: example.com-error
+    url: httpx://example.com
+  - name: example.con
+    url: https://example.con
+  - name: google.com
+    url: https://google.com
+  - name: google.com-error
+    url: https://google.com/xxxx
+  - name: yahoo.com
+    url: https://yahoo.com
+  - name: yahoo.com-error
+    url: https://yahoo.com/xxxx
+
+open-source:
+  - name: debian.org
+    url: https://www.debian.org
+  - name: ubuntu.com
+    url: https://ubuntu.com/
